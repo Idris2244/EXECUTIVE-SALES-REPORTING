@@ -114,25 +114,31 @@ It is recommended that the company recognize and reward Nicholas Cunningham and 
 
 To address this performance issue, it is recommended that the company provide additional training for these teams to enhance their sales capabilities and improve overall performance.
 
-### Sales Trend 
+#### Sales Trend 
 
 It is recommended that the company increase advertising efforts and implement promotional activities in February and April to boost sales during these months and achieve higher revenue.
 
-### Channel Performance 
+#### Channel Performance 
 
 To optimize growth on channel performance, it is recommended to conduct a deeper analysis of each channel’s specific performance metrics and market trends. Focus on identifying potential areas for improvement or expansion within each channel to enhance overall performance and leverage any emerging opportunities.
 
-### State By Revenue 
+#### State By Revenue 
 
 It is recommended that the company intensify advertising efforts in these lower state by revenue areas to increase brand awareness and attract more customers.
 
-### Top 10 State By Population
+#### Top 10 State By Population
 
 It is recommended that the company increase advertising efforts in states with lower customer populations to enhance brand awareness and drive growth in these areas.
 
-### Region By Revenue 
+#### Region By Revenue 
 
 It is recommended that further analysis be conducted to understand the factors contributing to the Midwest’s higher sales percentage.
+
+---
+
+### Conclusion 
+
+The comprehensive analysis of store performance data has provided valuable insights into various aspects of sales operations. By evaluating key metrics such as product revenue, sales team performance, channel effectiveness, and regional contributions, the project highlights both strengths and areas for improvement.
 
 
 
