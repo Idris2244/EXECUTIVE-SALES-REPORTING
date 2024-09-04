@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3ca67f7c-b4ff-4f0c-ac35-bedbb2a920bd)![image](https://github.com/user-attachments/assets/2759887a-57cf-47b2-99e6-49ee8edda596)![image](https://github.com/user-attachments/assets/597cefd5-8fa2-4e73-ad62-801beb2eb12c)![image](https://github.com/user-attachments/assets/e88d2a70-96ba-439d-b4e4-d9fd89529c93)# EXECUTIVE-SALES-ANALYSIS
+# EXECUTIVE-SALES-ANALYSIS
 
 ---
 
